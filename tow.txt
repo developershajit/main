@@ -1,1 +1,5 @@
 This is tow text file push github
+
+ This is new branching changed for git bash command 
+ 
+ terminal in the github push for new feature-1 branching 
